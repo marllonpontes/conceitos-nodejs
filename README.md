@@ -69,7 +69,7 @@ Neste projeto, as rotas foram implementadas usando métodos HTTP:
 Clone este repositório:
 
 ```bash
-$ git clone https://github.com/marllonpontes/conceitos-nodes.git
+$ git clone https://github.com/marllonpontes/conceitos-nodejs
 ```
 
 Mova-se para diretório da aplicação:
