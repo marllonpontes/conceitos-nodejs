@@ -16,7 +16,7 @@
 <p align="center">
   <img alt="language version" src="https://img.shields.io/badge/Node-v_13.11.0-339933?logo=node.js">
   <img alt="language version" src="https://img.shields.io/badge/Yarn-v_1.22.4-2C8EBB?logo=Yarn">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/marllonpontes/gostack-desafio-2">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/marllonpontes/conceitos-nodejs">
 
   </p>
 
@@ -75,7 +75,7 @@ $ git clone https://github.com/marllonpontes/conceitos-nodejs
 Mova-se para diretório da aplicação:
 
 ```bash
-$ cd bootcamp-gostack-desafio-2
+$ cd conceitos-nodejs
 ```
 
 Para instalar as dependências execute:
