@@ -51,7 +51,7 @@ Neste projeto, as rotas foram implementadas usando métodos HTTP:
 
 - **`POST /repositories/:id/like`**: A rota deve aumentar o número de likes do repositório específico escolhido através do `id` presente nos parâmetros da rota, a cada chamada dessa rota, o número de likes deve ser aumentado em 1;
 
-## ⚙️ Tecnologias
+## ⚙ Tecnologias
 
 * __NodeJS__
 * Express
