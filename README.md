@@ -63,7 +63,6 @@ Neste projeto, as rotas foram implementadas usando métodos HTTP:
 
 * [Insomnia](https://insomnia.rest/download/)
 
-
 ## :computer: Execute o projeto
 
 Clone este repositório:
